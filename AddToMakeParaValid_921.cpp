@@ -15,7 +15,6 @@ public:
             } 
 
        }
-
         min_add += st.size();
         return min_add;
 
