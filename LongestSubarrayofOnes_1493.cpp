@@ -21,8 +21,6 @@ public:
             }
 
             ans = max(ans , right - left + 1 -zeroes);
-
-
         }
 
         return (ans == n ) ? ans-1 : ans;
