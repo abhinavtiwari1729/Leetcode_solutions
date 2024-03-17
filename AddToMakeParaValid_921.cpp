@@ -13,7 +13,6 @@ public:
                 else 
                     min_add++;
             } 
-
        }
         min_add += st.size();
         return min_add;
